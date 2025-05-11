@@ -70,6 +70,6 @@ The app fetches the latest data from Adafruit IO and displays the prediction on 
 Users can manually refresh the data by pressing the refresh button in the app.
 
 License
-This project is licensed under the [Apache 2.0]() License.
+This project is licensed under the [Apache 2.0](https://github.com/RANJITHASARAVANAN315/Cloud-Based-MCB-Trip-Monitor-IOT-ML-Predictive-Analysis-in-Flutter/blob/main/LICENSE) License.
 
 
