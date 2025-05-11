@@ -69,7 +69,15 @@ Flutter App:
 The app fetches the latest data from Adafruit IO and displays the prediction on the screen.
 Users can manually refresh the data by pressing the refresh button in the app.
 
-License
+## License
 This project is licensed under the [Apache 2.0](https://github.com/RANJITHASARAVANAN315/Cloud-Based-MCB-Trip-Monitor-IOT-ML-Predictive-Analysis-in-Flutter/blob/main/LICENSE) License.
 
+## Acknowledgements
+Flutter: For building the mobile app.
 
+Adafruit IO: For providing an easy-to-use cloud platform for IoT.
+
+Google Colab: For training machine learning models in the cloud.
+
+## Conclusion
+This project combines IoT, ML, and Flutter to create an intelligent monitoring system for MCBs, using real-time data for predictive maintenance. The model is trained in Google Colab, and the results are displayed in a Flutter app, providing a comprehensive solution for monitoring MCB trips.
